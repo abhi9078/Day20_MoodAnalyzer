@@ -10,8 +10,8 @@ namespace TestProject1
         public void TestMethod1()
         {
             //Arrange
-            string expexted = "SAD";
-            string message = "I am in SAD Mood";
+            string expexted = "HAPPY";
+            string message = "I am in Any Mood";
             MoodAnalyze moodA = new MoodAnalyze();
 
             //Act

@@ -18,7 +18,7 @@ namespace MoodAnalyzerProblem
             }
             else
             {
-                return "HAPPY";
+                return "HAPPY";//else part
             }
 
         }

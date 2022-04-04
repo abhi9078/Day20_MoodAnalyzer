@@ -11,8 +11,8 @@ namespace TestProject1
         public void TestMethod1()
         {
             //Arrange
-            string expexted = "Sad";
-            string message = "I am in Sad Mood";
+            string expexted = "Happy";
+            string message = "I am in Happy Mood";
             MoodAnalyze moodA = new MoodAnalyze(message);//Parameterized constructor
 
             //Act

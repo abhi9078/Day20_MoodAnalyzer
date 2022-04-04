@@ -15,7 +15,7 @@ namespace TestProject1
             MoodAnalyze moodA = new MoodAnalyze();
 
             //Act
-            string mood = moodA.AnalyzeMood(message);
+            string mood = moodA.AnalyzeMood(message);// check for message
 
 
             //Assert

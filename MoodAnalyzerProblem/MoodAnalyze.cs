@@ -14,7 +14,7 @@ namespace MoodAnalyzerProblem
 
             if (message.Contains("SAD"))//Check string
             {
-                return "SAD";
+                return "SAD";//check message contain
             }
             else
             {

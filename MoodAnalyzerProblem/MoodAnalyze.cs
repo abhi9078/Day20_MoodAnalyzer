@@ -18,9 +18,9 @@ namespace MoodAnalyzerProblem
         public string AnalyzeMood()
         {
 
-            if (message.Contains("SAD"))//Check string
+            if (message.Contains("Sad"))//Check string
             {
-                return "SAD";//check message contain
+                return "Sad";//check message contain
             }
             else
             {

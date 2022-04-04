@@ -8,7 +8,7 @@ namespace MoodAnalyzerProblem
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Welcome to Mood Analyser problem");
-            Console.WriteLine("Refactor");
+            Console.WriteLine("Repeat TC 1.1");
         }
     }
 }

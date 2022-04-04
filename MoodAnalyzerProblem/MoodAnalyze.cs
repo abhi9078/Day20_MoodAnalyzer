@@ -8,8 +8,14 @@ namespace MoodAnalyzerProblem
 {
     public class MoodAnalyze
     {
-        
-        public string AnalyzeMood(string message)
+        public string message;
+
+        //Constructor part
+        public MoodAnalyze(string message)
+        {
+            this.message = message;
+        }
+        public string AnalyzeMood()
         {
 
             if (message.Contains("SAD"))//Check string
